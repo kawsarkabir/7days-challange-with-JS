@@ -15,3 +15,5 @@ else if( chanachurPrice < money){
 else{
     console.log("ajke amr khuda nei");
 }
+
+// nested
